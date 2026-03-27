@@ -44,7 +44,7 @@ This is a list of components that need to be fabricated (laser-cut) from the 3 m
 
 ## Arranging of the sketches
 
-We use an [OMTech laser cutter](https://de.omtech.com/products/100w-co2-laser-graviermaschine-cutter-mit-100x-60cm-bearbeitungsflache-autofokus-max-gr10) with an engraving area of 1000 x 600 mm. The size of the PLEXIGLAS® sheets listed above ([Commercially available and custom-made parts](#commercially-available-and-custom-made-parts)) has been calculated to fit as many components on one sheet as possible while still maintaining a minimum clearance of 1 cm from all edges and adjacent components. See the images below on how we arranged the sketches (DXF files) in RDWorks.
+We use an [OMTech laser cutter](https://de.omtech.com/products/100w-co2-laser-graviermaschine-cutter-mit-100x-60cm-bearbeitungsflache-autofokus-max-gr10) with a working range of 1000 x 600 mm. The size of the PLEXIGLAS® sheets listed above ([Commercially available and custom-made parts](#commercially-available-and-custom-made-parts)) has been calculated to fit as many components on one sheet as possible while still maintaining a minimum clearance of 1 cm from all edges and adjacent components. See the images below on how we arranged the sketches (DXF files) in RDWorks.
 
 Both long outer walls (700 x 450 x 6 mm PLEXIGLAS® Satinice sheet):  
 <img src="700x450_outer_sides.png" alt="long_outer_walls" width="100%"/>
