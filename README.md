@@ -61,8 +61,8 @@ Both separtion reinforcement walls (600 x 250 x 6 mm PLEXIGLAS® Satinice sheet)
 Both inner parts of the doors (400 x 300 x 8 mm PLEXIGLAS® Satinice sheet):
 <img src="400x300_inner_door.png" alt="inner_doors" width="100%"/>
 
-All four corner compartment walls ( x  x 3 mm PLEXIGLAS® Clear sheet); yields the needed eight corner compartment holders:
-<img src=".png" alt="corner_compartment_walls" width="100%"/>
+All four corner compartment walls (650 x 250 x 3 mm PLEXIGLAS® Clear sheet); yields the needed eight corner compartment holders:
+<img src="650x250_compartments.png" alt="corner_compartment_walls" width="100%"/>
 
 
 # Assembly of the three-chamber sociability arena
